@@ -34,7 +34,7 @@ License: MIT license  {{{
 ==============================================================================
 概要							*unite-yarm-introduction*
 
-*unite-yarm* は unite.vim のプラグインとして動作するredmine クライアントであり、
+unite-yarm は unite.vim のプラグインとして動作するredmine クライアントであり、
 以下の操作が可能である。
 
 ・チケットを一覧表示する
